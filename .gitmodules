@@ -1,0 +1,3 @@
+[submodule "mer_setup_submodule"]
+	path = mer_setup/mer_setup_submodule
+	url = git@github.com:tldrafael/mer_setup_submodule.git
